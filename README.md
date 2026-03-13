@@ -1,6 +1,6 @@
 # 🚀 Atividade Prática: Machine Learning com Streamlit
 **Disciplina:** Data Science  
-**Entrega:** 27/02  
+**Entrega:** 12/03  
 **Tecnologias:** Python, Streamlit, Scikit-Learn, Joblib
 
 Este repositório contém dois projetos de Machine Learning desenvolvidos para a disciplina de Data Science. O objetivo é demonstrar o fluxo completo desde o treinamento do modelo até a disponibilização em uma interface interativa.
